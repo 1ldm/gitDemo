@@ -1,2 +1,2 @@
 # gitDemo
-A simple git repository tho learn Git workflow
+A simple git repository to learn the Git workflow
